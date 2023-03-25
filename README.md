@@ -119,7 +119,7 @@ sns.boxplot(x='weight',data=newdata_weight)
 
 bhp.csv IQR METHOD
 
-#df.head()
+# df.head()
 
 
     
