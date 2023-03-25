@@ -36,9 +36,10 @@ Remove the outliers.
 
 Plot the datas using Box Plot.
 
-#PROGRAM:
+# PROGRAM:
 
 ```
+
 DEVELOPED BY: D. VINITHA NAIDU, REGISTER NUMBER: 212222230175
 import pandas as pd
 df=pd.read_csv("/content/bhp.csv")
@@ -112,6 +113,7 @@ print(newdata_weight)
 sns.boxplot(x='weight',data=newdata_weight)
  
  ~~~
+ 
  
 ### OUTPUT
 
