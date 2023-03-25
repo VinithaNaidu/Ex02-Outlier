@@ -146,7 +146,54 @@ bhp.csv IQR METHOD
 # BOXPLOT AFTER REMOVING OUTLIERS USING IQR
 ![Screenshot_20230325_071328](https://user-images.githubusercontent.com/121166004/227721534-b62f0359-5faa-4fbc-acd2-29fd71a9d960.png)
 
-# 
+# Zscore of 3
+
+# NEWDATA USING Zscore
+![Screenshot_20230325_072952](https://user-images.githubusercontent.com/121166004/227721981-c755cd30-bfa3-4466-a934-2915706f947d.png)
+
+# OUTLIERS
+![Screenshot_20230325_073010](https://user-images.githubusercontent.com/121166004/227722075-6dc3085d-800b-4a49-9fdf-de53a3e2cd94.png)
+
+# newdata2.shape
+![Screenshot_20230325_073022](https://user-images.githubusercontent.com/121166004/227722159-3ca66a16-fb87-4c2d-88c6-dacf8ef9e6e0.png)
+
+# BOXPLOT AFTER REMOVING OUTLIERS USING Zscore
+![Screenshot_20230325_073033](https://user-images.githubusercontent.com/121166004/227722210-9fe07e48-70c6-49a5-afc0-4d5e91568c56.png)
+
+# height_weight.csv
+
+dataset.shape 
+![Screenshot_20230325_073052](https://user-images.githubusercontent.com/121166004/227726142-f5d8fb03-ecc9-451e-9dc8-485d17bc82a9.png)
+
+# dataset.describe()
+![Screenshot_20230325_073112](https://user-images.githubusercontent.com/121166004/227726179-e6059209-6a5c-4bcb-bb95-20e451d1f039.png)
+
+# dataset.info()
+![Screenshot_20230325_085138](https://user-images.githubusercontent.com/121166004/227726485-bf95110f-0284-4cde-9d28-7be0fca9a646.png)
+
+# BOXPLOT BEFORE REMOVING OUTLIERS
+![Screenshot_20230325_085153](https://user-images.githubusercontent.com/121166004/227726568-f117eb2a-1f6f-4728-b609-905b83b1cc82.png)
+
+# HEIGHT OUTLIERS
+![Screenshot_20230325_085254](https://user-images.githubusercontent.com/121166004/227726705-882aa989-e758-44b6-9f46-354571f9c152.png)
+
+# DATASET AFTER REMOVING HEIGHT OUTLIERS
+![Screenshot_20230325_085328](https://user-images.githubusercontent.com/121166004/227726741-dbd22944-5898-4f36-a4c9-d2d2e5e39238.png)
+
+# BOXPLOT AFTER REMOVING HEIGHT OUTLIERS
+![Screenshot_20230325_085339](https://user-images.githubusercontent.com/121166004/227726795-f0e62ca1-7b1c-40e4-8ff6-f595af03f3d7.png)
+
+# WEIGHT OUTLIERS
+![Screenshot_20230325_085353](https://user-images.githubusercontent.com/121166004/227726843-c306eb58-ffb8-478f-b727-9d957722a3c0.png)
+
+# DATASET AFTER REMOVING WEIGHT OUTLIERS
+![Screenshot_20230325_085405](https://user-images.githubusercontent.com/121166004/227726891-6ce265ce-ec21-4709-a706-01d6a9bfe6b9.png)
+
+# BOXPLOT AFTER REMOVING WEIGHT OUTLIERS
+![Screenshot_20230325_085419](https://user-images.githubusercontent.com/121166004/227726924-357e5fa1-0076-4099-a964-3a78a2bf0897.png)
+
+# RESULT
+The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
 
 
 
