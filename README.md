@@ -112,7 +112,7 @@ newdata_weight=dataset[(dataset['weight']>=l_weight) & (dataset['weight']<=u_wei
 print(newdata_weight)
 sns.boxplot(x='weight',data=newdata_weight)
  
- ~~~
+ ```
  
  
 ### OUTPUT
