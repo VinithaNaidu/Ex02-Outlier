@@ -120,6 +120,36 @@ sns.boxplot(x='weight',data=newdata_weight)
 bhp.csv IQR METHOD
 
 # df.head()
+![Screenshot_20230325_071151](https://user-images.githubusercontent.com/121166004/227720988-a91fe1d9-62fd-4c15-a4d8-add5dcd035f4.png)
+
+# df.describe()
+![Screenshot_20230325_071205](https://user-images.githubusercontent.com/121166004/227721034-8a6bca8d-0eaa-48d0-b87c-ed320b17f247.png)
+
+# df.info()
+![Screenshot_20230325_071205](https://user-images.githubusercontent.com/121166004/227721100-3bc5f656-36b7-4716-b2a9-ed812473b403.png)
+
+# df.shape()
+![Screenshot_20230325_071821](https://user-images.githubusercontent.com/121166004/227721166-1cb8fb19-25bf-4c4b-a5d3-b09e6d65de94.png)
+
+# BOXPLOT BEFORE REMOVING OUTLIERS
+![Screenshot_20230325_071249](https://user-images.githubusercontent.com/121166004/227721205-12d39159-80d1-4446-be28-bbf20a4b20fb.png)
+
+# NEWDATA USING IQR
+![Screenshot_20230325_071302](https://user-images.githubusercontent.com/121166004/227721295-8b1267fa-a6f0-408f-b4bc-68bd3b9ccbdf.png)
+
+# OUTLIERS
+![Screenshot_20230325_071313](https://user-images.githubusercontent.com/121166004/227721386-78925cfa-be94-4d65-937b-97a79bb2a549.png)
+
+# newdata.shape
+![Screenshot_20230325_072458](https://user-images.githubusercontent.com/121166004/227721469-866bc5de-855d-4a8d-84f4-e4b3308dc8e3.png)
+
+# BOXPLOT AFTER REMOVING OUTLIERS USING IQR
+![Screenshot_20230325_071328](https://user-images.githubusercontent.com/121166004/227721534-b62f0359-5faa-4fbc-acd2-29fd71a9d960.png)
+
+# 
+
+
+
 
 
     
