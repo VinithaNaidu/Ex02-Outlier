@@ -112,6 +112,7 @@ print(newdata_weight)
 sns.boxplot(x='weight',data=newdata_weight)
  
  ~~~
+ 
 ### OUTPUT
 
 bhp.csv IQR METHOD
