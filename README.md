@@ -9,10 +9,10 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 (3) use zscore of 3 to remove outliers. This is quite similar to IQR and you will get exact same result
 
 (4) for the data set height_weight.csv find the following
-     ```
+    
     (i) Using IQR detect weight outliers and print them
 
     (ii) Using IQR, detect height outliers and print them
-    ```
+   
  ### ALGORITHM
     
